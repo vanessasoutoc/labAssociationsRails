@@ -1,0 +1,1 @@
+time.to_formatted_s(:short) #=>"18 Jan 06:10"
