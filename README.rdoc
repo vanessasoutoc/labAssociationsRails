@@ -5,23 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version => ruby 2.1.2p95 (2014-05-08 revision 45877) [x86_64-linux-gnu]
 
-* System dependencies
+* Rails version 4.1.6
 
-* Configuration
+* OS => Ubuntu 14.04 LTS
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Database => postgresql 9.3
 
 
 Please feel free to use a different markup language if you do not plan to run
